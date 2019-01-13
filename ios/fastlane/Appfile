@@ -1,0 +1,8 @@
+app_identifier("idiotlabs.sucol.artistalbum") # The bundle identifier of your app
+apple_id("idiotlabs@gmail.com") # Your Apple email address
+
+itc_team_id("119553180") # App Store Connect Team ID
+team_id("HG5PDSS9DG") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile
